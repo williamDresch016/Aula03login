@@ -1,0 +1,11 @@
+C:\Users\william.dresch\source\repos\Aula03Login\Aula03Login\bin\Debug\Aula03Login.exe.config
+C:\Users\william.dresch\source\repos\Aula03Login\Aula03Login\bin\Debug\Aula03Login.exe
+C:\Users\william.dresch\source\repos\Aula03Login\Aula03Login\bin\Debug\Aula03Login.pdb
+C:\Users\william.dresch\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.csproj.AssemblyReference.cache
+C:\Users\william.dresch\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\william.dresch\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.Properties.Resources.resources
+C:\Users\william.dresch\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.csproj.GenerateResource.cache
+C:\Users\william.dresch\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.csproj.CoreCompileInputs.cache
+C:\Users\william.dresch\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.exe
+C:\Users\william.dresch\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.pdb
+C:\Users\william.dresch\source\repos\Aula03Login\Aula03Login\obj\Debug\Aula03Login.Form1.resources
